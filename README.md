@@ -1,6 +1,6 @@
 # AndroidNFCEmulator
 
-![AndroidNFCEmulator screenshot](img.jpg)
+![AndroidNFCEmulator screenshot](img.png)
 
 Testing NFC-based Android apps can sometimes be a little frustrating, especially if you don't have access to a physical device, tags, or even if you just want to use the emulator to test out a couple different device configurations.
 
