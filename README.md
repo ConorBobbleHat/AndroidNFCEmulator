@@ -1,5 +1,7 @@
 # AndroidNFCEmulator
 
+![AndroidNFCEmulator screenshot](img.jpg)
+
 Testing NFC-based Android apps can sometimes be a little frustrating, especially if you don't have access to a physical device, tags, or even if you just want to use the emulator to test out a couple different device configurations.
 
 In an attempt to remedy this, AndroidNFCEmulator lets you fake the intent produced by Android when a tag is scanned via a simple HTTP request. Currently, it can only simulate NDEF-formatted tags with a single URI record, but expanding it to encompass multiple records and different formats shouldn't be difficult.
