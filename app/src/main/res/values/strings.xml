@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidNFCEmulator</string>
+    <string name="service_on">Start the NFC Server</string>
+    <string name="service_off">Stop the NFC Server</string>
 </resources>
